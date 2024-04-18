@@ -1,0 +1,6 @@
+[http]
+	sslVerify = false
+	postBuffer = 1048576000
+[user]
+	email = 1067638576@qq.com
+	name = Jiadong Zhu
